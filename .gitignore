@@ -1,0 +1,3 @@
+maze_run
+*.pyc
+__pycache__
